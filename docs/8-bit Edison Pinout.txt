@@ -1,0 +1,22 @@
+2.8" LCD | Edison | RPi B
+------------------------------
+  GND    |  
+  Vin
+  CS
+  C/D
+  WR
+  RD
+  RST
+  Lite
+  IRQ
+  SCL
+  SDA
+  GND
+  D0
+  D1
+  D2
+  D3
+  D4
+  D5
+  D6
+  D7

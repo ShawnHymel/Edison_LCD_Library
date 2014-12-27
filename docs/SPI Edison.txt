@@ -1,0 +1,13 @@
+2.8" LCD |    Edison     | RPi B           |     Function
+----------------------------------------------------------------
+   GND   |  GND          | GND (Pin 6)     | Ground
+   Vin   |  Vsys         | 5V (Pin 2)      | 3-5V
+   CLK   |  GP109 (CLK)  | GPIO11 (Pin 23) | SPI Clock
+   MISO  |  GP114 (MISO) | GPIO9 (Pin 21)  | SPI MISO
+   MOSI  |  GP115 (MOSI) | GPIO10 (Pin 19) | SPI MOSI
+   CS    |  GP110 (CE0)  | GPIO8 (Pin 24)  | SPI CS
+   D/C   |  GP47	 | PIO25 (Pin 22)  | Data/Command Select
+
+   IM3   |               |                 | Connect to 3Vo (LCD)
+   IM2   |               |                 | Connect to 3Vo (LCD)
+   IM1   |               |                 | Connect to 3Vo (LCD)
